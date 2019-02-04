@@ -1,0 +1,9 @@
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\The_Quest.Form1.resources
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\The_Quest.Properties.Resources.resources
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\bin\Debug\The Quest.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\bin\Debug\The Quest.pdb
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\The Quest.exe
+C:\Users\Ivan\Documents\Visual Studio 2010\Projects\The Quest\The Quest\obj\x86\Debug\The Quest.pdb
